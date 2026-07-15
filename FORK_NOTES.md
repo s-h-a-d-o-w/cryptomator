@@ -1,0 +1,1 @@
+Must be built on a machine with an actual GUI, since an actual display connection is required for tests that run during building.

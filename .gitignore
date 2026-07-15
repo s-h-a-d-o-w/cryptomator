@@ -1,4 +1,6 @@
 *.class
+dist/
+.vscode/
 
 # Package Files #
 *.jar
